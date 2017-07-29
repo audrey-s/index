@@ -1,1 +1,3 @@
-# jd_index 仿写
+# jd_index
+#HTML+CSS 
+#basic coding skill
